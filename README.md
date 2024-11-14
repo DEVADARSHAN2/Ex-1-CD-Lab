@@ -1,4 +1,8 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+## Name: DEVADARSHAN A S
+## Register No : 212222110007
+## DATE: 13.08.2024
+
 # AIM :
 To Write a C program to implement a symbol table.
 # ALGORITHM
